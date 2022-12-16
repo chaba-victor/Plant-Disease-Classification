@@ -8,4 +8,6 @@ Note: This description is given in the dataset itself
 
 
 # The goal 
-To build a model, which can classify between healthy and diseased crop leaves and also if the crop have any disease, predict which disease is it.
+To build a model which can classify healthy & unhealthy crop leaves and also predict which disease it is that is affecting it. The model should also give suggestions on possible treatment plan for the crop.
+
+          Project in progress ...
