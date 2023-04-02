@@ -8,6 +8,8 @@ NB: This description is given in the dataset itself
 
 
 # Aim 
-To build a model which can differentiate healthy from unhealthy leaves and also predict which disease it is that is affecting it. The model should also give suggestions on possible treatment plan for the crop.
+To train the ResNet9 model to differentiate healthy from unhealthy leaves and also predict which disease it is that is affecting it. The model should also give suggestions on possible treatment plan for the crop.
+
+[ResNet-9](https://github.com/Moddy2024/ResNet-9) is a deep convolutional neural network trained on the CIFAR-10 dataset. The architecture is implemented from the paper Deep Residual Learning for Image Recognition, it's a residual learning network to ease the training of networks that are substantially deeper.
 
           Project in progress ... Deployment in the works.
