@@ -10,4 +10,4 @@ NB: This description is given in the dataset itself
 # Aim 
 To build a model which can differentiate healthy from unhealthy leaves and also predict which disease it is that is affecting it. The model should also give suggestions on possible treatment plan for the crop.
 
-          Project in progress ...
+          Project in progress ... Deployment in the works.
